@@ -1,0 +1,2 @@
+right click and open with powershell thats it.
+and if it asks questions just click [Y]
