@@ -52,8 +52,7 @@
 ## 🚀 How to Use
 
 1. **Download the script**:
-   - From the official website: [massgrave.dev](https://massgrave.dev)
-   - Or clone this repo if hosted here
+   - Download this repo here and after installation go inside folder and look the .txt file what it says to run the script.
 
 2. **Run PowerShell as Administrator**, then execute:
 
