@@ -1,2 +1,6 @@
 right click and open with powershell thats it.
-and if it asks questions just click [Y]
+and if it asks questions just click Y
+and you'll see options and if you want to activate windows click option 1
+and after clicking make sure you are connected to internet and it will generate a windows activation key and it will immedaitly remove the
+boring "activate windows" watermark, no need to restart pc , option 2 is to install office and activate word , excel ,powerpoint for free
+option 3 is to activate all i just mentioned in 1 cmd quickly, for other cmd's read readme file.
