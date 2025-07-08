@@ -79,6 +79,9 @@ License: MIT
 📞 Support
 If you're having trouble, check the official docs:
 👉 massgrave.dev/troubleshoot
+If you find this tool useful, drop a ⭐ or fork it. Contributions and proxy improvements are welcome.
+
+[![Buy Me a Coffee](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/G2G114SBVV)
 
 Or open an issue on this GitHub.
 
