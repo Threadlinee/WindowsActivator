@@ -18,6 +18,17 @@
 
 ---
 
+## Screenshot 
+
+<img width="512" height="59" alt="image" src="https://github.com/user-attachments/assets/c0cb0153-4068-436d-a56a-2d644338203c" />
+
+No "Activate Windows" watermark:
+
+<img width="371" height="224" alt="image" src="https://github.com/user-attachments/assets/e2f5cdb6-24b7-40b8-a066-58afd09c4a9e" />
+
+
+---
+
 ## 🧩 Activation Methods
 
 | Option | Method      | Supports                             | Notes                                                  |
