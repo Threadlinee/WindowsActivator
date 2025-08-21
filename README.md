@@ -24,7 +24,7 @@
 
 No "Activate Windows" watermark:
 
-<img width="371" height="224" alt="image" src="https://github.com/user-attachments/assets/e2f5cdb6-24b7-40b8-a066-58afd09c4a9e" />
+<img width="772" height="581" alt="image" src="https://github.com/user-attachments/assets/5fb86066-4ea2-4c13-a154-a559a341a457" />
 
 
 ---
